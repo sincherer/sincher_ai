@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Er Sin Cher",
+    "title": "Senior UI/UX Designer",
+    "summary": "Experienced Senior UI/UX Designer with over 10 years of expertise in creating user-centered interfaces and design systems. Proven track record in leading design teams, implementing analytics solutions, and developing scalable design systems across various industries.",
+    "email": "ersincher@gmail.com",
+    "location": "Cheras, Selangor",
+    "linkedin": "your-linkedin-profile",
+    "github": "your-github-profile"
+  },
+  "experience": [
+    {
+      "company": "Pulsifi Pte. Ltd.",
+      "position": "Senior UI/UX Designer",
+      "location": "Damansara, Selangor",
+      "type": "Work From Home",
+      "duration": "May 2023 - Present",
+      "description": "Leading UX/UI design initiatives and implementing data-driven solutions",
+      "highlights": [
+        "Led the design and implementation of user-centered interfaces across all platforms",
+        "Created a scalable design system based on NG-ZORRO limitations",
+        "Initiated and integrated Google Analytics (GA) and Google Tag Manager (GTM)",
+        "Developed a Looker Studio dashboard for real-time data analysis",
+        "Automated Google Sheets for data threshold monitoring and notifications"
+      ],
+      "technologies": ["Figma","NG-ZORRO", "Google Analytics", "Looker Studio", "Google Sheets"]
+    },
+    {
+      "company": "TOGL Technology Sdn Bhd",
+      "position": "Senior UI/UX Designer",
+      "location": "Damansara, Selangor",
+      "type": "On-site",
+      "duration": "Aug 2022 - May 2023",
+      "description": "Owned end-to-end user experience and maintained brand integrity across products",
+      "highlights": [
+        "Managed overall user experience and consistency across entire products",
+        "Collaborated with developers, PM and BA for design implementation",
+        "Developed detailed wireframes, user flows, and high-fidelity prototypes",
+        "Maintained signature aesthetics and brand integrity standards"
+      ],
+      "technologies": ["Figma", "Adobe Suite", "Sketch"]
+    },
+    {
+      "company": "GoKudos Sdn Bhd",
+      "position": "UI/UX Designer",
+      "location": "Damansara, Selangor",
+      "type": "Work From Home",
+      "duration": "Oct 2021 - Aug 2022",
+      "description": "Restructured SAAS platform and led UX design initiatives",
+      "highlights": [
+        "Restructured SAAS platform as the main product",
+        "Created high fidelity prototypes and illustrations",
+        "Developed marketing materials and sales kits",
+        "Enhanced product UX with clear interface design"
+      ],
+      "technologies": ["Figma", "Adobe Suite"]
+    },
+    {
+      "company": "SICK Sensor Malaysia",
+      "position": "Senior Marketing Executive",
+      "location": "Puchong, Selangor",
+      "type": "On-site",
+      "duration": "Nov 2020 - June 2021",
+      "description": "Led marketing communications and brand strategy",
+      "highlights": [
+        "Executed annual marketing and communication plans",
+        "Managed social media and website strategies",
+        "Created high-quality marketing materials and video content",
+        "Supported Factory, Logistic, and Process Automation divisions"
+      ]
+    },
+    {
+      "company": "KHP Steel Product (M) Sdn Bhd",
+      "position": "Branding Specialist",
+      "location": "Setia Alam, Selangor",
+      "type": "Hybrid",
+      "duration": "Jan 2018 - Nov 2020",
+      "description": "Managed integrated marketing communications and brand development",
+      "highlights": [
+        "Developed and executed marketing communications plans",
+        "Managed corporate and packaged brands for B2B and B2C",
+        "Led website, social media, and PR strategies",
+        "Supported company expansion to 5th concept store"
+      ]
+    },
+    {
+      "company": "Intelligent Earnings Sdn Bhd",
+      "position": "Senior UI/UX Designer",
+      "location": "Sri Petaling, Kuala Lumpur",
+      "type": "On-site",
+      "duration": "Jan 2016 - Dec 2017",
+      "description": "Led design vision and product direction",
+      "highlights": [
+        "Created new features and overhauled visual design",
+        "Enhanced hiring criteria and grew design team",
+        "Developed mobile applications with focus on UX",
+        "Managed backend integration with programming team"
+      ]
+    },
+    {
+      "company": "OPPO Electronics Sdn Bhd",
+      "position": "Senior Designer",
+      "location": "Petaling Jaya, Selangor",
+      "type": "On-site",
+      "duration": "Jan 2013 - Dec 2015",
+      "description": "Led Malaysia's advertising concept and visual direction",
+      "highlights": [
+        "Managed nationwide advertising campaigns",
+        "Supported branding with social media materials",
+        "Maintained corporate image consistency"
+      ]
+    },
+    {
+      "company": "JT Apps Sdn Bhd",
+      "position": "Creative Director",
+      "location": "Kuchai Lama, Kuala Lumpur",
+      "type": "On-site",
+      "duration": "July 2012 - Jan 2013",
+      "description": "Led creative direction for diverse client portfolio including F&B, mobile accessories, manufacturing, and recruitment sectors",
+      "highlights": [
+        "Created advertising and branding for notable clients including Ah Huat White Coffee and Casahana Mooncake",
+        "Led a team of two designers for animation and visual direction",
+        "Developed WeChat and website templates for e-commerce initiatives",
+        "Directed photography and videography projects including filming",
+        "Managed content creation and approval for marketing channels",
+        "Organized department workflow for tactical and strategic deliverables"
+      ],
+      "technologies": ["WeChat", "E-commerce", "Photography", "Videography"]
+    }
+    
+    
+  ]
+}
